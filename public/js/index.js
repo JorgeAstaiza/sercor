@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",(function(e){let t=document.getElementById("btn-terminos"),n=document.getElementById("ctn-term");document.getElementById("my-form"),document.getElementById("my-form-status");document.getElementById("my-form-button");function o(){n.style.display="none",localStorage.Terminos="aceptado"}t.addEventListener("click",o),"aceptado"===localStorage.Terminos&&o()}));
+//# sourceMappingURL=index.js.map
